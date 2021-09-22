@@ -1,0 +1,87 @@
+
+.ort{
+text-align: center;
+
+}
+.text-light:hover{
+    color: aqua;
+}
+
+
+.container
+{
+     
+            margin:0 auto;
+
+}
+
+nav ul{
+    text-align: center;
+
+    margin: 0px;
+    padding: 0px;
+}
+nav a{
+     margin: 0 3px;
+}
+nav li{
+
+    list-style-type: none;
+    display: inline;
+ 
+}
+h1,h2,h3,p{
+    text-align: center;
+
+}
+article ul  {
+    display: flex;
+    flex-direction: column-reverse;
+   margin: 0 45%;
+    
+}
+.product{
+    text-align: left;
+}
+
+
+
+h1 {
+
+   color: rgb(255, 0, 0);
+}
+
+h2 {
+    color:rgb(183, 0, 255);
+}
+
+h3{
+    color:orangered;
+}
+
+p{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+article ul img{
+ 
+ height: 300px;
+}
+
+#prod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+} 
+
+footer {
+    position: fixed;
+    bottom: 0;
+}
+
+p {
+    font-size: 15px;
+}
